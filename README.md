@@ -2,15 +2,15 @@
 
 ## What is This?
  
-This is a collection of **API Style Guides** used at Sabre. It's a way for us to all work better together in the service of providing a fantastic developer experience (DX) for the customers using our future Sabre APIs.
+This is a collection of **API Style Guides** used at [Sabre](https://www.sabre.com/). It's a way for us to all work better together in the service of providing a fantastic developer experience (DX) for the customers using our future Sabre APIs.
  
 Style Guides are a way of accelerating API development by listing best-practices that we have learned, put into production, and want to adopt. Use it as a blueprint for your API development. We're promoting this as a jumping-off point to help you start working more quickly.
  
 We have a goal of providing a common look and feel for building API interfaces used by our customers. Requests and responses are a user interface (UI) for developers. We want our APIs to collectively produce a UI that's clean, consistent, and highly capable.
  
-The business outcome of having a shared API Style Guide is helping us treat APIs as products. Each API is a product, and they ought to feel as though they were all made by the same company, and look like they fit inside the same Sabre universe.
+The business outcome of having a set of shared API Style Guides is helping us treat APIs as products. Each API is a product, and they ought to feel as though they were all made by the same company, and look like they fit inside the same Sabre universe.
  
-If our portfolio of APIs does this we anticipate the experience our developer customers have with our APIs will be a positive one. Developer experience (DX) for a platform company is highly crucial for adoption, engagement, and monetization. One customer-SVP noted about his engineering team selecting technology providers:
+If our [portfolio of APIs](https://developer.sabre.com/) does this we anticipate the experience our developer customers have with our APIs will be a positive one. Developer experience (DX) for a platform company is highly crucial for adoption, engagement, and monetization. One customer-SVP noted about his engineering team selecting technology providers:
 
 > "Developers are increasingly influential, and their opinions drive changes."
  
