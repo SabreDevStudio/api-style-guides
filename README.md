@@ -28,7 +28,7 @@ Ongoing improvements are welcomed by all contributors.
  
 ## Where Is It?
  
-The [**RESTful API Style Guide**](RESTfulAPIStyleGuide.md), being an artifact for developers, is under revision control in this git repo.
+The [RESTful API Style Guide](RESTfulAPIStyleGuide.md), being an artifact for developers, is under revision control in this git repo.
  
 ## Asking for Your Help
  
