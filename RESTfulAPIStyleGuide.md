@@ -49,7 +49,7 @@
 
 This document is meant to guide Sabre developers building APIs consumed by external developers. It assumes **RESTful** services delivering **JSON** over **HTTP**.  
 
-Initially written by the team creating the **Corporate Travel Solutions (CTS)**, this guide is available for anyone inside the company to adopt, and contribute.
+Initially written by the team creating the **Corporate Travel Services (CTS)**, this guide is available for anyone inside the company to adopt, and contribute.
 
 -----------------------
 
