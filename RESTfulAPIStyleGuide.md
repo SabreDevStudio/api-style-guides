@@ -7,30 +7,31 @@
 * [Introduction](#introduction)  
 * [Responses](#responses)  
     * [Sample Response](#sample-response)  
-    * [JSON](#json-responses)  
+    * [JSON](#json-response)  
     * [Prefer Shallow over Deep](#prefer-shallow-over-deep)  
     * [Attribute Names](#attribute-names)  
     * [Status Codes](#status-codes)
-    * [Null/Empty Property Values](#null-property-values)  
+    * [HTTP Method to Status Code Mapping](#http-method-to-status-code-mapping)
+    * [Error Handling](#error-handling)
+    * [Null/Empty Property Values](#nullempty-property-values)  
 * [URIs](#uris)  
     * [Version](#version)  
     * [Namespaces](#namespaces)  
     * [Resource References](#resource-references)  
 * [Collection Resources](#collection-resources)  
-    * [Collection Resource](#collection-resource-lists)  
+    * [Collection Resource](#collection-resource)  
     * [Read Single Resource](#read-single-resource)  
     * [Update Single Resource](#update-single-resource)  
     * [Update Partial Single Resource](#update-partial-single-resource)  
     * [Create New Resource](#create-new-resource)  
-    * [Create New Resource - Consumer Supplied Identifier](#create-new-resource-csi)  
+    * [Create New Resource - Consumer Supplied Identifier](#create-new-resource---consumer-supplied-identifier)  
 * [Read-only Resources](#read-only-resources)  
-    * [Example Request](#example-request)
 * [Versioning and Lifecycles](#versioning-and-lifecycles)
     * [Product Lifecycle Terms](#product-lifecycle-terms)
     * [Backwards Compatibility](#backwards-compatibility)
     * [Releases](#releases)
 * [Best Practices](#best-practices)  
-    * [X-Request-ID HTTP Header](#x-request-id)      
+    * [X-Request-ID HTTP Header](#x-request-id-http-header)      
     * [Write Client Sample Code](#write-client-sample-code)  
 * [Conclusion](#conclusion)  
 
@@ -141,7 +142,7 @@ Here's a concrete example response to get your mind going. Review this, then rea
       ]
     }
 
-### JSON
+### JSON Response
 
 **JavaScript Object Notation (JSON)** is a service response format typically consumed by modern front-end clients. JSON's self-documenting structure makes it easy for people to read, and computers to use. Its lightweight scheme makes it appealing for customers connected by bandwidth-constrained mobile devices. JavaScript-based webapps find JSON easy to consume.
 
